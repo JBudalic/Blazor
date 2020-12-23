@@ -10,7 +10,7 @@ header {
 }
 
 .banner {
-    background-image: url("img/headerbackground.jpg");
+    background-image: url("img/shared/headerbackground.jpg");
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,4 +69,8 @@ li a:hover {
 .widthsvg {
     width: 24px;
     margin: 1px;
+}
+
+.border {
+    border: 5px solid black;
 }
