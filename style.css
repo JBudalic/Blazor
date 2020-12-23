@@ -1,6 +1,7 @@
 
 body{
     margin:0;
+    font-family: 'Ubuntu', sans-serif;
 }
 header{
     display: block;
@@ -8,7 +9,7 @@ header{
 }
 
 .banner {
-    background-image:url("img/blazorbanner.jpg");
+    background-image:url("img/headerbackground.jpg");
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
