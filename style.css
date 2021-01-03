@@ -99,3 +99,7 @@ li a:hover {
 .float-left {
     float: left;
 }
+
+label {
+    font-weight: 500;
+}
