@@ -33,7 +33,7 @@ li {
 }
 
 li:hover {
-    background-color: white;
+    background-color: #008348;
 }
 
 li a {
@@ -46,7 +46,7 @@ li a {
 }
 
 li a:hover {
-    color: black;
+    color: white;
 }
 
 .maintitle {
@@ -71,6 +71,31 @@ li a:hover {
     margin: 1px;
 }
 
-.border {
-    border: 5px solid black;
+.responsive-image {
+    width: 100%;
+}
+
+.thumbnail-width {
+    width: 20%;
+}
+
+.news {
+    margin: 1rem;
+}
+
+.accent {
+    color: #008348;
+}
+
+.description {
+    margin-top: 1.5rem;
+    font-weight: bold;
+}
+
+.width-40 {
+    width: 40%;
+}
+
+.float-left {
+    float: left;
 }
