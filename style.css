@@ -75,14 +75,6 @@ li a:hover {
     width: 100%;
 }
 
-.thumbnail-width {
-    width: 20%;
-}
-
-.news {
-    margin: 1rem;
-}
-
 .accent {
     color: #008348;
 }
@@ -127,9 +119,21 @@ label {
     height: 230px;
 }
 
-.floating-video {
+.float-with-border {
     float: left;
     margin-bottom: 0.5rem;
     margin-right: 0.5rem;
     border: 1px solid black;
+}
+
+.figure-thumbnail {
+    width: 20%;
+}
+
+.news {
+    margin: 1rem;
+}
+
+.news figcaption {
+    text-align: center;
 }
